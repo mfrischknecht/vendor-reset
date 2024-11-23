@@ -29,7 +29,7 @@
 #include <linux/slab.h>
 #include <linux/delay.h>
 #include <linux/version.h>
-#include <asm-generic/unaligned.h>
+#include <linux/unaligned.h>
 
 //#include <drm/drm_util.h>
 //#include <drm/drm_print.h>
